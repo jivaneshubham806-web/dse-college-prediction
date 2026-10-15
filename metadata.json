@@ -1,0 +1,6 @@
+{
+  "name": "Maharashtra DSE College Finder",
+  "description": "This website helps DSE students in Maharashtra find colleges that match their diploma percentage, branch, category, and cities, using Maharashtra CET Cell CAP cutoff records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
