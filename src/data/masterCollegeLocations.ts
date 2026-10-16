@@ -138,7 +138,7 @@ export const MASTER_COLLEGE_LOCATIONS: Record<string, VerifiedLocation> = {
     "aliases": []
   },
   "2021": {
-    "city": "Aurangabad",
+    "city": "Chhatrapati Sambhajinagar",
     "district": "Chhatrapati Sambhajinagar",
     "aliases": []
   },
@@ -148,7 +148,7 @@ export const MASTER_COLLEGE_LOCATIONS: Record<string, VerifiedLocation> = {
     "aliases": []
   },
   "2112": {
-    "city": "Aurangabad",
+    "city": "Chhatrapati Sambhajinagar",
     "district": "Chhatrapati Sambhajinagar",
     "aliases": []
   },
@@ -158,7 +158,7 @@ export const MASTER_COLLEGE_LOCATIONS: Record<string, VerifiedLocation> = {
     "aliases": []
   },
   "2114": {
-    "city": "Aurangabad",
+    "city": "Chhatrapati Sambhajinagar",
     "district": "Chhatrapati Sambhajinagar",
     "aliases": []
   },
@@ -169,7 +169,7 @@ export const MASTER_COLLEGE_LOCATIONS: Record<string, VerifiedLocation> = {
   },
   "2127": {
     "city": "Hingoli Rd / Nanded",
-    "district": "Hingoli",
+    "district": "Nanded",
     "aliases": []
   },
   "2129": {
@@ -184,21 +184,21 @@ export const MASTER_COLLEGE_LOCATIONS: Record<string, VerifiedLocation> = {
   },
   "2131": {
     "city": "Tuljapur",
-    "district": "Chhatrapati Sambhajinagar",
+    "district": "Dharashiv",
     "aliases": []
   },
   "2133": {
     "city": "Ambejogai",
-    "district": "Chhatrapati Sambhajinagar",
+    "district": "Beed",
     "aliases": []
   },
   "2134": {
-    "city": "Aurangabad",
+    "city": "Chhatrapati Sambhajinagar",
     "district": "Chhatrapati Sambhajinagar",
     "aliases": []
   },
   "2135": {
-    "city": "Aurangabad",
+    "city": "Chhatrapati Sambhajinagar",
     "district": "Chhatrapati Sambhajinagar",
     "aliases": []
   },
@@ -218,7 +218,7 @@ export const MASTER_COLLEGE_LOCATIONS: Record<string, VerifiedLocation> = {
     "aliases": []
   },
   "2146": {
-    "city": "Osmanabad",
+    "city": "Dharashiv",
     "district": "Dharashiv",
     "aliases": []
   },
@@ -228,7 +228,7 @@ export const MASTER_COLLEGE_LOCATIONS: Record<string, VerifiedLocation> = {
     "aliases": []
   },
   "2250": {
-    "city": "Naygaon Savangi / Aurangabad",
+    "city": "Naygaon Savangi,
     "district": "Chhatrapati Sambhajinagar",
     "aliases": []
   },
@@ -263,13 +263,13 @@ export const MASTER_COLLEGE_LOCATIONS: Record<string, VerifiedLocation> = {
     "aliases": []
   },
   "2533": {
-    "city": "Aurangabad",
+    "city": "Chhatrapati Sambhajinagar",
     "district": "Chhatrapati Sambhajinagar",
     "aliases": []
   },
   "2634": {
     "city": "A.P Phulepimpalgaon",
-    "district": "Chhatrapati Sambhajinagar",
+    "district": "Beed",
     "aliases": []
   },
   "2637": {
@@ -294,12 +294,12 @@ export const MASTER_COLLEGE_LOCATIONS: Record<string, VerifiedLocation> = {
   },
   "2770": {
     "city": "Ashti",
-    "district": "Chhatrapati Sambhajinagar",
+    "district": "Beed",
     "aliases": []
   },
   "2771": {
     "city": "Chhatrapati Sambhajinagar",
-    "district": "Chhatrapati Sambhajinagar",
+    "district": "Beed",
     "aliases": []
   },
   "2772": {
